@@ -1,6 +1,6 @@
 # 3D-Rendering-Software-SFML
-PJ Kim / April 26th, 2024
-C++, SFML, Linear Algebra, Computer Graphics
+PJ Kim / April 26th, 2024<br>
+C++, SFML, Linear Algebra, Computer Graphics<br><br>
 
 <h1>Introduction</h1>
 The goal of this project was to create a software that could render 3D math functions and linear transformations. Users can enter a math function, and it will graph with coloring based on the x, y, and z axes. Users can also apply linear transformations such as shear, rotate, and scale. I chose this project to learn more about linear algebra, computer graphics, and C++.<br><br>
